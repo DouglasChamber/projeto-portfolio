@@ -1,2 +1,2 @@
 # projeto portfolio
-Projeto final curso em video CSS3 e HTML5
+Projeto final do Curso em Vídeo de HTML5 e CSS3
