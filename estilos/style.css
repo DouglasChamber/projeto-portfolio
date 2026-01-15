@@ -101,7 +101,7 @@ div#social a:hover {
   color: var(--destaque-inverso);
 }
 
-dection#detalhes {
+section#detalhes {
   grid-column: 2;
 }
 
